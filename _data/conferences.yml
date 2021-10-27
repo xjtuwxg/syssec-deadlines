@@ -6,7 +6,7 @@
   description: USENIX Symposium on Operating Systems Design and Implementation
   link: https://www.usenix.org/conference/osdi22
   comment: Abstract deadline on December 7, 2021
-  deadline: "2021-12-14 23:59 UTC"
+  deadline: "2021-12-14 23:59 Etc/UTC"
   place: CARLSBAD, CA, USA
   tags: [SYS, T1]
 
@@ -16,7 +16,7 @@
   description: USENIX Annual Technical Conference
   link: https://www.usenix.org/conference/atc22
   comment: Abstract deadline on January 6, 2022, 11:59 pm UTC
-  deadline: "2022-01-13 23:59 UTC"
+  deadline: "2022-01-13 23:59 Etc/UTC"
   place: CARLSBAD, CA, USA
   tags: [SYS, T1]
 
