@@ -1,14 +1,13 @@
-title: Security and Privacy Conference Deadlines
-description: Countdowns to top Security and Privacy conference deadlines.
-author: Bogdan Kulynych
+title: System and Security Conference Deadlines
+description: Countdowns to top System and Security conference deadlines.
+author: Xiaoguang Wang
 
-domain: "sec-deadlines.github.io"
-baseurl: ""
+domain: "xiaoguang.wang"
+baseurl: "/syssec-deadlines"
 
-twitter_username: hiddenmarkov
-github_username: sec-deadlines
-github_repo: sec-deadlines
-ga_id: UA-104921371-1
+twitter_username: xiaogw
+github_username: xjtuwxg
+github_repo: syssec-deadlines
+#ga_id: UA-104921371-1
 
 markdown: kramdown
-

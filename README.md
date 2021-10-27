@@ -1,6 +1,6 @@
 # Security and Privacy deadlines countdown
 
-Based on [ai-deadlines](https://aideadlin.es) by @abshkdz
+Based on [ai-deadlines](https://aideadlin.es) by @abshkdz and [sec-deadlines](https://sec-deadlines.github.io/) by Bogdan Kulynych.
 
 ## Adding/updating a conference
 
@@ -35,7 +35,7 @@ Descriptions of the fields:
 | `timezone`    | Timezone in [tz][1] format. By default is UTC-12 ([AoE][2]) |
 | `date`        | When the conference is happening                            |
 | `place`       | Where the conference is happening                           |
-| `tags`        | One or multiple tags: `SEC`, `PRIV`, or `CRYPTO`            |
+| `tags`        | One or multiple tags: `SEC`, `SYS`, or `T1`            |
 
 Fields marked with asterisk (\*) are required.
 
