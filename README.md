@@ -1,5 +1,7 @@
 # Security and Privacy deadlines countdown
 
+![GitHub last commit](https://img.shields.io/github/last-commit/xjtuwxg/syssec-deadlines)
+
 Based on [ai-deadlines](https://aideadlin.es) by @abshkdz and [sec-deadlines](https://sec-deadlines.github.io/) by Bogdan Kulynych.
 
 ## Adding/updating a conference
