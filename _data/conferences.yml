@@ -20,6 +20,16 @@
   place: CARLSBAD, CA, USA
   tags: [SYS, T1]
 
+- name: VEE
+  description: ACM Conference on Virtual Execution Environments
+  year: 2022
+  link: https://conf.researchr.org/home/vee-2022
+  deadline: "2021-12-3 23:59"
+  comment: Rebuttal Tue 11 - Thu 13 Jan 2022
+  date: TBD
+  place: TBD
+  tags: [SYS]
+
 - name: MobiSys
   year: 2022
   date: TBD
