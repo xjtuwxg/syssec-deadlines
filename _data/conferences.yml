@@ -67,17 +67,17 @@
 
 - name: CCS
   description: ACM Conference on Computer and Communications Security
-  year: 2021
-  link: https://www.sigsac.org/ccs/CCS2021/
+  year: 2022
+  link: https://www.sigsac.org/ccs/CCS2022/
   deadline:
-    - "2021-01-20 23:59"
-    - "2021-05-06 23:59"
+    - "2022-01-14 23:59"
+    - "2022-05-02 23:59"
   comment: 2 review cycles
   date: "November 14-19"
-  place: Seoul, South Korea
+  place: Los Angeles, U.S.A.
   tags: [SEC, T1]
 
-- name: Usenix
+- name: USENIX Security
   description: Usenix Security Symposium
   year: 2022
   link: https://www.usenix.org/conference/usenixsecurity22
@@ -126,13 +126,15 @@
 
 - name: ESORICS
   description: European Symposium on Research in Computer Security
-  year: 2021
-  link: https://esorics2021.athene-center.de/call-for-papers.php
-  deadline: "2021-05-12 23:59"
+  year: 2022
+  link: https://esorics2022.compute.dtu.dk/cfp.html
+  deadline:
+    - "2022-01-25 23:59"
+    - "2022-05-15 23:59"
   timezone: Etc/GMT-1
-  comment: Title and abstract deadline on May 5
-  date: October 4-8
-  place: Darmstadt, Germany
+  comment: Two review cycles; full paper deadline one week after these deadlines
+  date: "September 26-30"
+  place: Copenhagen, Denmark
   tags: [SEC]
 
 - name: RAID
