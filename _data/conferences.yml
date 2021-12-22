@@ -2,7 +2,7 @@
 # System
 - name: USENIX OSDI
   year: 2022
-  date: "JULY 11–13"
+  date: "JULY 11-13"
   description: USENIX Symposium on Operating Systems Design and Implementation
   link: https://www.usenix.org/conference/osdi22
   comment: Abstract deadline on December 7, 2021
@@ -12,7 +12,7 @@
 
 - name: USENIX ATC
   year: 2022
-  date: "JULY 11–13"
+  date: "JULY 11-13"
   description: USENIX Annual Technical Conference
   link: https://www.usenix.org/conference/atc22
   comment: Abstract deadline on January 6, 2022, 11:59 pm UTC
@@ -24,7 +24,7 @@
   description: ACM Conference on Virtual Execution Environments
   year: 2022
   link: https://conf.researchr.org/home/vee-2022
-  deadline: "2021-12-3 23:59"
+  deadline: "2021-12-03 23:59"
   comment: Rebuttal Tue 11 - Thu 13 Jan 2022
   date: TBD
   place: TBD
@@ -180,7 +180,7 @@
   link: https://www.usenix.org/conference/soups2021
   deadline: "2021-02-25 23:59"
   comment: Collocated with Usenix Security; Paper registration due Feb 18 AoE.
-  date: August 8–10
+  date: August 8-10
   place: Vancouver, Canada.
   tags: [SEC]
 
