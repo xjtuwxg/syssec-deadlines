@@ -40,28 +40,18 @@
   place: TBD
   tags: [SYS, T1]
 
-- name: IMC
-  description: Internet Measurement Conference
-  year: 2021
-  link: https://conferences.sigcomm.org/imc/2021/
-  deadline: "2021-05-26 23:59"
-  comment: Title and abstract deadline on May 19th
-  date: November 2-4
-  place: Virtual
-  tags: [SYS]
-
 # Security and Privacy
 ## Tier-I
 - name: S&P (Oakland)
-  year: 2022
-  date: "May 22 – 26 2022"
+  year: 2023
+  date: "May 22 – 26 2023"
   description: IEEE Symposium on Security and Privacy
-  link: https://www.ieee-security.org/TC/SP2022/
+  link: https://www.ieee-security.org/TC/SP2023/
   comment: Three deadlines
   deadline:
-    - "2021-04-15 23:59"
-    - "2021-08-19 23:59"
-    - "2021-12-02 23:59"
+    - "2022-04-01 23:59"
+    - "2022-08-19 23:59"
+    - "2022-12-02 23:59"
   place: San Francisco, California, USA
   tags: [SEC, T1]
 
@@ -139,11 +129,11 @@
 
 - name: RAID
   description: International Symposium on Research in Attacks, Intrusions and Defenses
-  year: 2021
-  link: https://www.raid2021.org
-  deadline: "2021-03-26 23:59"
-  date: October 6-8
-  place: Donostia/San Sebastian, Spain
+  year: 2022
+  link: https://raid2022.cs.ucy.ac.cy/
+  deadline: "2022-03-31 23:59"
+  date: October 19-21
+  place: Cyprus
   tags: SEC
 
 - name: ACSAC
@@ -164,41 +154,3 @@
   date: June 27-30
   place: Baltimore, MD, USA
   tags: SEC
-
-- name: WiSec
-  description: ACM Conference on Security and Privacy in Wireless and Mobile Networks
-  year: 2021
-  link: https://sites.nyuad.nyu.edu/wisec21/
-  deadline: "2021-03-25 23:59"
-  date: June 28 - July 1
-  place: Virtual, Abu Dhabi, UAE
-  tags: [SEC]
-
-- name: SOUPS
-  description: Usenix Symposium on Usable Security and Privacy
-  year: 2021
-  link: https://www.usenix.org/conference/soups2021
-  deadline: "2021-02-25 23:59"
-  comment: Collocated with Usenix Security; Paper registration due Feb 18 AoE.
-  date: August 8-10
-  place: Vancouver, Canada.
-  tags: [SEC]
-
-- name: SecDev
-  year: 2020
-  description: IEEE Secure Development Conference
-  link: https://secdev.ieee.org/
-  deadline: "2020-05-25 23:59"
-  date: "September 18-30"
-  place: Atlanta, GA, USA
-  tags: [SEC, PRIV]
-
-- name: ISC
-  description: The Information Security Conference
-  year: 2020
-  link: https://isc2020.petra.ac.id/
-  deadline: "2020-05-28 23:59"
-  timezone: Etc/UTC
-  date: "September 16-18"
-  place: New York, USA
-  tags: [SEC, INFOR]
