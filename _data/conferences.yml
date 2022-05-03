@@ -10,6 +10,18 @@
   place: CARLSBAD, CA, USA
   tags: [SYS, T1]
 
+- name: EuroSys
+  year: 2023
+  date: "May 9-12"
+  description: ACM The European Conference on Computer Systems
+  link: https://2023.eurosys.org/cfp.html
+  comment: Abstract deadline one week before the deadline.
+  deadline:
+    - "2022-05-18 15:59"
+    - "2022-10-19 15:59"
+  place: Rome, Italy
+  tags: [SYS, T1]
+
 - name: ASPLOS
   year: 2023
   date: "TBD"
@@ -95,12 +107,12 @@
 
 - name: NDSS
   description: ISOC Network and Distributed System Security Symposium
-  year: 2022
-  link: https://www.ndss-symposium.org/ndss2022/
+  year: 2023
+  link: https://www.ndss-symposium.org/ndss2023-call-for-papers/
   comment: 2 review cycles
   deadline:
-    - "2021-05-21 23:59"
-    - "2021-07-23 23:59"
+    - "2022-05-13 23:59"
+    - "2022-07-29 23:59"
   date: "February 27 - March 3"
   place: San Diego, CA, USA
   tags: [SEC, T1]
@@ -151,10 +163,10 @@
 
 - name: ACSAC
   description: Annual Computer Security Applications Conference
-  year: 2021
-  link: https://www.acsac.org/2021/
-  deadline: "2021-06-23 23:59"
-  date: Dec 6-10
+  year: 2022
+  link: https://www.acsac.org/2022/
+  deadline: "2022-06-29 23:59"
+  date: Dec 5-9
   place: Austin, TX, USA
   tags: [SEC]
 
