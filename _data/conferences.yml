@@ -8,7 +8,7 @@
   comment: Abstract deadline on December 6, 2022
   deadline: "2022-12-13 23:59"
   place: Boston, MA, USA
-  tags: [SYS, T1]
+  tags: [SYS]
 
 - name: EuroSys
   year: 2023
@@ -20,7 +20,7 @@
     - "2022-05-18 15:59"
     - "2022-10-19 15:59"
   place: Rome, Italy
-  tags: [SYS, T1]
+  tags: [SYS]
 
 - name: ASPLOS
   year: 2023
@@ -33,7 +33,7 @@
     - "2022-07-07 15:59"
     - "2022-10-20 15:59"
   place: TBD
-  tags: [SYS, T1]
+  tags: [SYS]
 
 - name: USENIX ATC
   year: 2023
@@ -43,7 +43,7 @@
   comment: Abstract deadline on January 5, 2023, 11:59 pm UTC
   deadline: "2023-01-12 23:59"
   place: Boston, MA, USA
-  tags: [SYS, T1]
+  tags: [SYS]
 
 - name: ICDCS
   description: IEEE International Conference on Distributed Computing Systems
@@ -73,7 +73,7 @@
   comment: Title and abstract deadline on Dec 13th, 2021 AoE
   deadline: "2021-12-20 23:59"
   place: TBD
-  tags: [SYS, T1]
+  tags: [SYS]
 
 # Security and Privacy
 ## Tier-I
@@ -88,7 +88,7 @@
     - "2022-08-19 23:59"
     - "2022-12-02 23:59"
   place: San Francisco, California, USA
-  tags: [SEC, T1]
+  tags: [SEC]
 
 - name: CCS
   description: ACM Conference on Computer and Communications Security
@@ -100,7 +100,7 @@
   comment: 2 review cycles
   date: "November 14-19"
   place: Los Angeles, U.S.A.
-  tags: [SEC, T1]
+  tags: [SEC]
 
 - name: USENIX Security
   description: Usenix Security Symposium
@@ -113,7 +113,7 @@
   comment: 3 review cycles
   date: "August 9-11"
   place: Anaheim, CA, USA.
-  tags: [SEC, T1]
+  tags: [SEC]
 
 - name: NDSS
   description: ISOC Network and Distributed System Security Symposium
@@ -125,7 +125,7 @@
     - "2022-07-29 23:59"
   date: "February 27 - March 3"
   place: San Diego, CA, USA
-  tags: [SEC, T1]
+  tags: [SEC]
 
 ## Tier-II
 - name: AsiaCCS
