@@ -1,13 +1,13 @@
 ---
 # System
 - name: USENIX OSDI
-  year: 2023
+  year: 2024
   date: "JULY 10-12"
   description: USENIX Symposium on Operating Systems Design and Implementation
-  link: https://www.usenix.org/conference/osdi23
-  comment: Abstract deadline on December 6, 2022
-  deadline: "2022-12-13 23:59"
-  place: Boston, MA, USA
+  link: https://www.usenix.org/conference/osdi24
+  comment: Abstract deadline on November 30, 2023
+  deadline: "2023-12-07 23:59"
+  place: Santa Clara, CA, USA
   tags: [SYS]
 
 - name: EuroSys
@@ -36,23 +36,23 @@
   tags: [SYS]
 
 - name: USENIX ATC
-  year: 2023
+  year: 2024
   date: "JULY 10-12"
   description: USENIX Annual Technical Conference
-  link: https://www.usenix.org/conference/atc23
-  comment: Abstract deadline on January 5, 2023, 11:59 pm UTC
-  deadline: "2023-01-12 23:59"
-  place: Boston, MA, USA
+  link: https://www.usenix.org/conference/atc24
+  comment: Abstract deadline on January 9, 2024, 11:59 pm UTC
+  deadline: "2024-01-16 23:59"
+  place: Santa Clara, CA, USA
   tags: [SYS]
 
 - name: ICDCS
   description: IEEE International Conference on Distributed Computing Systems
-  year: 2023
+  year: 2024
   date: "July 18-21"
-  link: https://icdcs2023.icdcs.org
-  deadline: "2023-01-21 23:59"
-  comment: Abstract deadline on January 14, 2023
-  place: Hong Kong, China
+  link: https://icdcs2024.icdcs.org
+  deadline: "2024-01-21 23:59"
+  comment: Abstract deadline on January 14, 2024
+  place: New Jersey, USA
   tags: [SYS]
 
 - name: VEE
@@ -66,13 +66,13 @@
   tags: [SYS]
 
 - name: MobiSys
-  year: 2022
+  year: 2024
   date: TBD
   description: ACM International Conference on Mobile Systems, Applications, and Services
-  link: https://www.sigmobile.org/mobisys/2022/
-  comment: Title and abstract deadline on Dec 13th, 2021 AoE
-  deadline: "2021-12-20 23:59"
-  place: TBD
+  link: https://www.sigmobile.org/mobisys/2024/
+  comment: Title and abstract deadline on Dec 13th, 2023 AoE
+  deadline: "2023-11-23 23:59"
+  place: Tokyo, Japan
   tags: [SYS]
 
 # Security and Privacy
@@ -142,11 +142,11 @@
 
 - name: Euro S&P
   description: IEEE European Symposium on Security and Privacy
-  year: 2023
-  date: "June 6-10"
-  link: https://www.ieee-security.org/TC/EuroSP2023/
-  deadline: "2022-10-26 23:59"
-  place: Delft, Netherlands
+  year: 2024
+  date: "July 8-12"
+  link: https://eurosp2024.ieee-security.org/
+  deadline: "2023-10-30 23:59"
+  place: Vienna, Austria
   tags: [SEC]
 
 - name: ESORICS
@@ -182,10 +182,10 @@
 
 - name: DSN
   description: The International Conference on Dependable Systems and Networks
-  year: 2023
-  link: https://dsn2023.dei.uc.pt/
-  deadline: "2022-12-07 23:59"
-  comment: Title and abstract deadline on December 01
-  date: June 27-30
-  place: Porto, Portugal
+  year: 2024
+  link: https://dsn2024uq.github.io/
+  deadline: "2023-12-06 23:59"
+  comment: Title and abstract deadline on November 29
+  date: June 24-27
+  place: Brisbane, Australia
   tags: SEC
