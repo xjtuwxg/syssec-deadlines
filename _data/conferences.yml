@@ -10,29 +10,39 @@
   place: Santa Clara, CA, USA
   tags: [SYS]
 
-- name: EuroSys
+- name: ACM SOSP
   year: 2024
-  date: "May 23-26"
+  date: "Nov 04-06"
+  description: ACM Symposium on Operating Systems Principles (SOSP)
+  link: https://sigops.org/s/conferences/sosp/2024/cfp.html
+  comment: Abstract deadline on April 12, 2024
+  deadline: "2024-04-19 23:59"
+  place: Austin, Texas, USA
+  tags: [SYS]
+
+- name: EuroSys
+  year: 2025
+  date: TBD
   description: ACM The European Conference on Computer Systems
-  link: https://2024.eurosys.org/cfp.html
+  link: https://2025.eurosys.org/cfp.html
   comment: Abstract deadline one week before the deadline.
   deadline:
-    - "2023-05-24 15:59"
-    - "2023-10-19 15:59"
-  place: Rome, Italy
+    - "2024-05-21 15:59"
+    - "2024-10-22 15:59"
+  place: Rotterdam, The Netherlands
   tags: [SYS]
 
 - name: ASPLOS
-  year: 2024
+  year: 2025
   date: "TBD"
   description: ACM International Conference on Architectural Support for Programming Languages and Operating Systems
-  link: https://asplos-conference.org/asplos2023/cfp/
+  link: https://www.asplos-conference.org/asplos-2025-call-for-papers/
   comment: Abstract deadline one week before the deadline.
   deadline:
-    - "2023-04-20 23:59"
-    - "2023-08-10 23:59"
-    - "2023-11-30 23:59"
-  place: TBD
+    - "2024-03-01 23:59"
+    - "2024-06-24 23:59"
+    - "2024-10-11 23:59"
+  place: Rotterdam, The Netherlands
   tags: [SYS]
 
 - name: USENIX ATC
@@ -78,28 +88,27 @@
 # Security and Privacy
 ## Tier-I
 - name: S&P (Oakland)
-  year: 2024
-  date: "May 20-22 2024"
+  year: 2025
+  date: TBD
   description: IEEE Symposium on Security and Privacy
-  link: https://www.ieee-security.org/TC/SP2024/
-  comment: Three deadlines
+  link: https://www.ieee-security.org/TC/SP2025/cfpapers.html
+  comment: Two deadlines
   deadline:
-    - "2023-04-13 23:59"
-    - "2023-08-03 23:59"
-    - "2023-12-06 23:59"
-  place: San Francisco, California, USA
+    - "2024-06-06 23:59"
+    - "2024-11-14 23:59"
+  place: TBD
   tags: [SEC]
 
 - name: CCS
   description: ACM Conference on Computer and Communications Security
-  year: 2023
-  link: https://www.sigsac.org/ccs/CCS2023/
+  year: 2024
+  link: https://www.sigsac.org/ccs/CCS2024/
   deadline:
-    - "2023-01-19 23:59"
-    - "2023-05-04 23:59"
+    - "2024-01-28 23:59"
+    - "2024-04-29 23:59"
   comment: 2 review cycles
-  date: "November 26-30"
-  place: Copenhagen, Denmark
+  date: "October 14-18"
+  place: Salt Lake City, U.S.A.
   tags: [SEC]
 
 - name: USENIX Security
@@ -173,11 +182,11 @@
 
 - name: ACSAC
   description: Annual Computer Security Applications Conference
-  year: 2023
-  link: https://www.acsac.org/2023/
-  deadline: "2023-05-22 23:59"
-  date: Dec 4-8
-  place: Austin, TX, USA
+  year: 2024
+  link: https://www.acsac.org/2024/
+  deadline: "2024-05-28 23:59"
+  date: Dec 9-13
+  place: Hawaii, USA
   tags: [SEC]
 
 - name: DSN
